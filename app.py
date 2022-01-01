@@ -29,7 +29,7 @@ import string
 import spacy
 spacy.prefer_gpu()
 # to make spacy work in pipeline.
-nlp_vocab = spacy.load('/home/affine/Downloads/en_core_web_sm-2.2.0/en_core_web_sm/en_core_web_sm-2.2.0', 
+nlp_vocab = spacy.load('en_core_web_sm', 
                        disable=['tagger', 'parser', 'ner'])
 nlp_vocab.add_pipe(nlp_vocab.create_pipe('sentencizer'))
 
