@@ -63,8 +63,8 @@ Out of the two NLP models, Hybrid Bi-LSTM model was finalized as it met followin
 *The AUC score of LSTM model is almost at par with transformer model post multiple hypertuning. It seem to be optimum fit for business requirement. 
 
 Training files can be referred from following links:<br/>
-- **Hybrid LSTM:**[Hybrid LSTM]()<br/>
-- **Distilbert:** [Distilbert Transformers]()
+- **Hybrid LSTM:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DSPOWER93/quora-insincere/blob/main/Bi_LSTM_insincere_question_Classifier.ipynb)<br/>
+- **Distilbert:**      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Data Source
 
