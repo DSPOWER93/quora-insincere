@@ -64,7 +64,7 @@ Out of the two NLP models, Hybrid Bi-LSTM model was finalized as it met followin
 
 Training files can be referred from following links:<br/>
 - **Hybrid LSTM:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DSPOWER93/quora-insincere/blob/main/Bi_LSTM_insincere_question_Classifier.ipynb)<br/>
-- **Distilbert:**      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- **Distilbert:**      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DSPOWER93/quora-insincere/blob/main/Distilbert_Classifier_Insincere_Questions.ipynb)
 
 ## Data Source
 
