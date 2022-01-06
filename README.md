@@ -73,7 +73,7 @@ The Data for the project has been taken from Kaggle competition
 
 ## API Inference
 
-#### API Inference through Python
+#### API Inference through Python, also can be tested through [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DSPOWER93/Insincere-Questions/blob/main/Lambda_API_Deployment_File.ipynb)<br/>
 
 Invoke url = https://bl5i4vptna.execute-api.us-east-1.amazonaws.com/dev/api
 
